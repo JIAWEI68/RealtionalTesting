@@ -1,0 +1,3 @@
+include ':RealtioanlTesting'
+include ':app'
+rootProject.name = "Testrelational.java"
